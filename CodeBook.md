@@ -64,3 +64,11 @@ The main goals in data processing:
 This processing could be found in the file run_analysis.R. Also, inside the file will be able to understand with more details what the script does through the comments.
 
 To run the file run_analysis.R just remember to set the right directory where the UCI HAR Dataset is located and, at the end of the process, the file tidyData.txt will be save in your currently directory.
+
+
+## The Tidy Data 
+===========================================
+
+The final data will be save in your system as a txt file. 
+
+
